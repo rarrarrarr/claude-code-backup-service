@@ -1,0 +1,8 @@
+# Never commit backup output (archives, logs, copied transcripts) by accident.
+*.7z
+*.partial
+*.jsonl
+logs/
+head/
+nightly/
+weekly/
